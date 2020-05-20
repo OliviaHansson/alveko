@@ -1,0 +1,29 @@
+//bacgrounds
+$backgroundColor-dark: rgb(22, 34, 37);
+$backgroundColor-light: #D8D1CF;
+$backgroundColor-darkPink: #BCA198;
+
+//typographhy
+
+@font-face {
+  font-family: postNoBills;
+  src: url("/postnobills.ttf");
+}
+
+@font-face {
+  font-family: Raleway;
+  src: url("/Raleway-Medium.ttf");
+}
+
+$logoTypo: postNoBills;
+$breadTypo: Raleway;
+
+$headingsColor-dark: #5F4D48;
+$headingsColor-light: #A5877E;
+
+
+
+// @font-face {
+//   font-family: futura;
+//   src: url("/public/Futura.ttf");
+// }

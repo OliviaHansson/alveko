@@ -1,0 +1,48 @@
+{
+  "alveko_services": {
+    "cards" : [
+      { "cards_heading" : "Löneadministration:",
+        "cards_text" : [ 
+          "Kunskap om lagar och kollektivavtal.", 
+          "Utbetalning av löner", "Lönespecifikationer till anställda", "Semesterårsavslut", 
+          "Förmånsberäkningar, ex. bilförmån", "Arbetsgivardeklarationer", 
+          "Rapportering till olika myndigheter ex. Försäkringskassan, SCB, Fora m.fl."
+        ]
+      },
+      { "cards_heading" : "Personaladministration/HR:",
+        "cards_text" : [
+          "Anställningsavtal", "Permitteringar", "Uppsägningar", "Föräldraledighet, tjänstledighet m.m.", 
+          "Fackliga förhandlingar"
+        ]
+      },
+      { "cards_heading" : "Rådgivning:",
+        "cards_text" : [
+          "Stor eller liten fråga, vi löser det!", 
+          "Vi samarbetar med ett antal revisionsbyråer om frågorna blir av sådan art."
+        ]
+      },
+      { "cards_heading" : "Löpande redovisning:",
+        "cards_text" : [
+          "Kund – fakturering, inbetalningar, påminnelser, inkasso", "Leverantör – registrering av fakturor, utbetalningar",
+          "Kontoavstämningar", "Momsrapportering", "Upprättande av månad/kvartal/halvårsbokslut"
+        ]
+      },
+      { "cards_heading" : "Deklarationer",
+        "cards_text" : [
+          "Arbetsgivardeklarationer", "Momsdeklarationer", "Inkomstdeklarationer", "Skattedeklarationer"
+        ]
+      },
+      { "cards_heading" : "Bilda och avveckla företag:",
+        "cards_text" : [
+          "Hjälp vid start av företag", "Hjälp vid avveckling/likvidation av företag",
+          "Övriga bolagsärenden"
+        ]
+      },
+      { "cards_heading" : "Årsbokslut – Årsredovisning:",
+        "cards_text" : [
+          "Vi ser till att årets alla transaktioner sammanställs i ett årsbokslut, vilket sedan mynnar ut i en årsredovisning som vi skickar in till Bolagsverket"
+        ]
+      }
+    ]
+  }
+}
