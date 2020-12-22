@@ -17,9 +17,15 @@ export default {
 
 <style lang="scss">
 
+body {
+  scroll-behavior: smooth;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+
 }
 </style>

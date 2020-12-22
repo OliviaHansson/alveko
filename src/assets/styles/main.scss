@@ -1,7 +1,8 @@
 @import '@/assets/styles/variable.scss';
 
 body {
-  background-color: $backgroundColor-dark;
+  scroll-behavior: smooth;
+  // background-color: $backgroundColor-dark;
   width: 100vw;
   height: 100vh;
 }

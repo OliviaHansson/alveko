@@ -18,7 +18,7 @@ export default {
 <style lang="scss" scoped>
   .intro {
     @include base($backgroundColor-dark);
-    min-height: 700px;
+    min-height: 500px;
     margin-top: 80px;
 
     &__container {
